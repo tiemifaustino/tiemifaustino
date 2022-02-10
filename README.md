@@ -1,6 +1,6 @@
 ## Olá! eu sou a Tiemi Faustino 😊 ♉ 🐕 🏋️‍ 🇧🇷
 
-- 🌱 Estudando Desenvolvimento Web pela Trybe
+- 🌱 Estudando Desenvolvimento Web pela [Trybe](https://www.betrybe.com/)
 - 👩 Pronouns: ela/dela
 - ☕ Amo um cafezinho 
 - 📖 [Portfólio - em construção](https://tiemifaustino.github.io/#eu) 
