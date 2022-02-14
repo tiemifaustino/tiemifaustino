@@ -6,6 +6,14 @@
 - 📖 [Portfólio - em construção](https://tiemifaustino.github.io/#eu) 
 
 ##
+### Alguns projetos realizados durante o curso:
+1. [Lessons Learned](https://tiemifaustino.github.io/lessons-learned/) - Primeiro projeto realizado utilizando HTML5 e CSS3
+2. [Pixels Art](https://tiemifaustino.github.io/project-pixels-art/) - Paleta de cores para criação de desenhos em pixels
+3. [To do list](https://tiemifaustino.github.io/project-todo-list/) - Lista de Tarefas
+4. [Color Guess](https://tiemifaustino.github.io/color-guess-project-bonus/) - Jogo de adivinhação de cores
+
+
+##
 
 <br>
 <div align="center">
