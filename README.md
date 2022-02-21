@@ -11,6 +11,7 @@
 2. [Pixels Art](https://tiemifaustino.github.io/project-pixels-art/) - Paleta de cores para criação de desenhos em pixels
 3. [To do list](https://tiemifaustino.github.io/project-todo-list/) - Lista de Tarefas
 4. [Color Guess](https://tiemifaustino.github.io/color-guess-project-bonus/) - Jogo de adivinhação de cores
+5. [Solar System](https://tiemifaustino.github.io/solar-system-react-project/) - Primeiro projeto utilizando <a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 
 ##
@@ -23,9 +24,9 @@
 </div><br>
 
 <div align="center">
-  <img align="center" alt="Rafa-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Rafa-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Rafa-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Tiemi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Tiemi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Tiemi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
 </div>
 
 ##
