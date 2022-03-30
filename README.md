@@ -1,9 +1,13 @@
 ## Olá! eu sou a Tiemi Faustino 😊 ♉ 🐕 🏋️‍ 🇧🇷
 
+Formada em Farmácia decidi mudar de carreira e seguir os passos em programação para me tornar uma Desenvolvedora Web. Aprendi os Fundamentos Web e atualmente estudando Front-End, React e Redux.
+
+Estou em formação pela [Trybe](https://www.betrybe.com/), escola que ensina a programar, aprender e a trabalhar. Curso de aproximadamente 12 meses onde além das hard skills, desenvolvemos também as soft skills, vários projetos individuais e em grupo e a importância da colaboração. É composto pelos módulos de Fundamentos, Front-End, Back-End e Ciência da Computação.
+
 - 🌱 Estudando Desenvolvimento Web pela [Trybe](https://www.betrybe.com/)
-- 👩 Pronouns: ela/dela
-- ☕ Amo um cafezinho 
-- 📖 [Portfólio - em construção](https://tiemifaustino.github.io/#eu) 
+- 👩 Pronomes: ela/dela
+- 📖 [Portfólio - em construção](https://tiemifaustino.github.io/#eu)
+
 
 ##
 ### Alguns projetos realizados durante o curso:
