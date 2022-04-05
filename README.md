@@ -6,16 +6,16 @@ Estou em formação pela [Trybe](https://www.betrybe.com/), escola que ensina a 
 
 - 🌱 Estudando Desenvolvimento Web pela [Trybe](https://www.betrybe.com/)
 - 👩 Pronomes: ela/dela
-- 📖 [Portfólio - em construção](https://tiemifaustino.github.io/#eu)
-
+- 📍 São Paulo, Brasil
 
 ##
 ### Alguns projetos realizados durante o curso:
 1. [Lessons Learned](https://tiemifaustino.github.io/lessons-learned/) - Primeiro projeto realizado utilizando HTML5 e CSS3
-2. [Pixels Art](https://tiemifaustino.github.io/project-pixels-art/) - Paleta de cores para criação de desenhos em pixels
-3. [To do list](https://tiemifaustino.github.io/project-todo-list/) - Lista de Tarefas
-4. [Color Guess](https://tiemifaustino.github.io/color-guess-project-bonus/) - Jogo de adivinhação de cores
-5. [Solar System](https://tiemifaustino.github.io/solar-system-react-project/) - Primeiro projeto utilizando <a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+2. [Portfólio](https://tiemifaustino.github.io/#eu) - Construção de portfólio utilizando HTML5 e CSS3
+3. [Pixels Art](https://tiemifaustino.github.io/project-pixels-art/) - Paleta de cores para criação de desenhos em pixels
+4. [To do list](https://tiemifaustino.github.io/project-todo-list/) - Lista de Tarefas
+5. [Color Guess](https://tiemifaustino.github.io/color-guess-project-bonus/) - Jogo de adivinhação de cores
+6. [Solar System](https://tiemifaustino.github.io/solar-system-react-project/) - Primeiro projeto utilizando <a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
 
 
 ##
