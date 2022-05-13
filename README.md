@@ -1,8 +1,12 @@
 ## Olá! eu sou a Tiemi Faustino 😊 ♉ 🐕 🏋️‍ 🇧🇷
 
-Formada em Farmácia decidi mudar de carreira e seguir os passos em programação para me tornar uma Desenvolvedora Web. Estou estudando Desenvolvimento Web na [Trybe](https://www.betrybe.com/), escola que ensina a programar, aprender e a trabalhar. Aprendemos com uma metodologia ativa, colocando a "mão na massa" realizando vários projetos individuais e em grupo durante a jornada. Aprendi os Fundamentos Web e atualmente terminando Front-end, rumo ao Back-end.
+Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) e farmacêutica. Amo café, música, filmes, doguinhos fofinhos e toda a praticidade e facilidade que a tecnologia pode nos proporcionar.
 
-Além das hard skills, na Trybe desenvolvemos também as soft skills e a importância da colaboração. É composto pelos módulos de Fundamentos, Front-End, Back-End e Ciência da Computação.
+Sempre estudei em escola pública e no final do ensino médio fiz o ENEM, e com a nota que tive consegui uma bolsa de 100% pelo ProUni para estudar farmácia. Me formei em 2012 e trabalhei como farmacêutica no varejo por 8 anos onde aprendi a me relacionar com a peça-chave mais importante de qualquer empresa: o Cliente.
+
+Com o tempo percebi que uma das coisas que mais me trazia a sensação de orgulho e que me deixa animada é colocar a mão na massa, e ver que aquilo que eu fiz funciona e que vai resolver o problema de alguém. Foi então que conheci o curso da Trybe e descobri que a programação me oferecia essa sensação de satisfação pessoal e profissional e aos 31 anos decidi fazer a transição de carreira para a tecnologia.
+
+Na Trybe aprendemos com uma metodologia ativa, colocando a "mão na massa" realizando vários projetos individuais e em grupo durante a jornada. Aprendi os Fundamentos Web, Front-end e atualmente iniciando Back-end.
 
 - 🌱 Estudando Desenvolvimento Web pela [Trybe](https://www.betrybe.com/)
 - 👩 Pronomes: ela/dela
