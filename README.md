@@ -11,6 +11,11 @@ Na Trybe aprendemos com uma metodologia ativa, colocando a "mão na massa" reali
 - 🌱 Estudando Desenvolvimento Web pela [Trybe](https://www.betrybe.com/)
 - 👩 Pronomes: ela/dela
 - 📍 Salto, São Paulo, Brasil
+- 📖 Aprendendo 
+   <img align="center" alt="Tiemi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+   <img align="center" alt="Tiemi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+          
+          
 
 ##
 ### Alguns projetos realizados durante o curso:
@@ -19,7 +24,7 @@ Na Trybe aprendemos com uma metodologia ativa, colocando a "mão na massa" reali
 3. [Pixels Art](https://tiemifaustino.github.io/project-pixels-art/) - Paleta de cores para criação de desenhos em pixels
 4. [To do list](https://tiemifaustino.github.io/project-todo-list/) - Lista de Tarefas
 5. [Color Guess](https://tiemifaustino.github.io/color-guess-project-bonus/) - Jogo de adivinhação de cores
-6. [Solar System](https://tiemifaustino.github.io/solar-system-react-project/) - Primeiro projeto utilizando <a href="https://pt-br.reactjs.org/" target="_blank"><img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+6. [Solar System](https://tiemifaustino.github.io/solar-system-react-project/) - Primeiro projeto utilizando [React](https://pt-br.reactjs.org/)
 
 
 ##
@@ -32,10 +37,13 @@ Na Trybe aprendemos com uma metodologia ativa, colocando a "mão na massa" reali
 </div><br>
 
 <div align="center">
-  <img align="center" alt="Tiemi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="Tiemi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Tiemi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Tiemi-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg" />
+  <img align="center" alt="Tiemi-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" />
+  <img align="center" alt="Tiemi-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" />
   <img align="center" alt="Tiemi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+  <img align="center" alt="Tiemi-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+  <img align="center" alt="Tiemi-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+  <img align="center" alt="Tiemi-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  />
 </div>
 
 ##
