@@ -6,7 +6,7 @@ Sempre estudei em escola pública e no final do ensino médio fiz o ENEM, e com 
 
 Com o tempo percebi que uma das coisas que mais me trazia a sensação de orgulho e que me deixa animada é colocar a mão na massa, e ver que aquilo que eu fiz funciona e que vai resolver o problema de alguém. Foi então que conheci o curso da Trybe e descobri que a programação me oferecia essa sensação de satisfação pessoal e profissional e aos 31 anos decidi fazer a transição de carreira para a tecnologia.
 
-Na Trybe aprendemos com uma metodologia ativa, colocando a "mão na massa" realizando vários projetos individuais e em grupo durante a jornada. Aprendi os Fundamentos Web, Front-end e atualmente iniciando Back-end.
+Na Trybe aprendemos com uma metodologia ativa, realizando vários projetos individuais e em grupo durante a jornada. Aprendi os Fundamentos Web, Front-end e atualmente iniciando Back-end.
 
 - 🌱 Estudando Desenvolvimento Web pela [Trybe](https://www.betrybe.com/)
 - 👩 Pronomes: ela/dela
