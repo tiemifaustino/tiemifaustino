@@ -26,6 +26,7 @@ Na Trybe aprendemos com uma metodologia ativa, realizando vários projetos indiv
 5. [Color Guess](https://tiemifaustino.github.io/color-guess-project-bonus/) - Jogo de adivinhação de cores
 6. [Solar System](https://tiemifaustino.github.io/solar-system-react-project/) - Primeiro projeto utilizando [React](https://pt-br.reactjs.org/)
 7. [Trivia Game](https://trivia-group24.vercel.app/) - Projeto em grupo baseado em um jogo de perguntas (Trivia) no módulo de Front-end
+8. [Docker Todo List](https://github.com/tiemifaustino/docker-todolist-project) - Primeiro projeto do módulo de Back-end utilizando Dockerfile e Docker-Compose 
 
 ##
 
