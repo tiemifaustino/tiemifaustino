@@ -25,9 +25,10 @@ Na Trybe aprendemos com uma metodologia ativa, realizando vários projetos indiv
 4. [To do list](https://tiemifaustino.github.io/project-todo-list/) - Lista de Tarefas
 5. [Color Guess](https://tiemifaustino.github.io/color-guess-project-bonus/) - Jogo de adivinhação de cores
 6. [Solar System](https://tiemifaustino.github.io/solar-system-react-project/) - Primeiro projeto utilizando [React](https://pt-br.reactjs.org/) <img align="center" alt="Tiemi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-7. [Trivia Game](https://trivia-group24.vercel.app/) - Projeto em grupo baseado em um jogo de perguntas (Trivia) no módulo de Front-end  <img align="center" alt="Tiemi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+7. [Trivia Game](https://trivia-group24.vercel.app/) - Projeto em equipe baseado em um jogo de perguntas (Trivia) no módulo de Front-end  <img align="center" alt="Tiemi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 8. [Trybe Wallet](https://trybe-wallet-two.vercel.app/) - Carteira de controle de gastos com conversor de moedas  <img align="center" alt="Tiemi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-9. [Docker Todo List](https://github.com/tiemifaustino/docker-todolist-project) - Primeiro projeto do módulo de Back-end utilizando Dockerfile e Docker-Compose <img align="center" alt="Tiemi-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+9. [Recipe App](http://easycooking-app.vercel.app/) - Projeto em equipe em que desenvolvemos um aplicativo mobile com React JS para ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas e drinks - Conclusão do módulo de Front-end <img align="center" alt="Tiemi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+10. [Docker Todo List](https://github.com/tiemifaustino/docker-todolist-project) - Primeiro projeto do módulo de Back-end utilizando Dockerfile e Docker-Compose <img align="center" alt="Tiemi-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 
 ##
 
