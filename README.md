@@ -24,9 +24,9 @@ Na Trybe aprendemos com uma metodologia ativa, realizando vários projetos indiv
 3. [Pixels Art](https://tiemifaustino.github.io/project-pixels-art/) - Paleta de cores para criação de desenhos em pixels
 4. [To do list](https://tiemifaustino.github.io/project-todo-list/) - Lista de Tarefas
 5. [Color Guess](https://tiemifaustino.github.io/color-guess-project-bonus/) - Jogo de adivinhação de cores
-6. [Solar System](https://tiemifaustino.github.io/solar-system-react-project/) - Primeiro projeto utilizando [React](https://pt-br.reactjs.org/)
+6. [Solar System](https://tiemifaustino.github.io/solar-system-react-project/) - Primeiro projeto utilizando [React](https://pt-br.reactjs.org/) <img align="center" alt="Tiemi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 7. [Trivia Game](https://trivia-group24.vercel.app/) - Projeto em grupo baseado em um jogo de perguntas (Trivia) no módulo de Front-end
-8. [Docker Todo List](https://github.com/tiemifaustino/docker-todolist-project) - Primeiro projeto do módulo de Back-end utilizando Dockerfile e Docker-Compose 
+8. [Docker Todo List](https://github.com/tiemifaustino/docker-todolist-project) - Primeiro projeto do módulo de Back-end utilizando Dockerfile e Docker-Compose <img align="center" alt="Tiemi-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 
 ##
 
