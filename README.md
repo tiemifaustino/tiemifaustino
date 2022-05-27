@@ -13,8 +13,8 @@ Na Trybe aprendemos com uma metodologia ativa, realizando vários projetos indiv
 - 📍 Salto, São Paulo, Brasil
 - 📖 Aprendendo 
    <img align="center" alt="Tiemi-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-   <img align="center" alt="Tiemi-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-          
+   <img align="center" alt="Tiemi-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+            
           
 
 ##
@@ -29,7 +29,7 @@ Na Trybe aprendemos com uma metodologia ativa, realizando vários projetos indiv
 8. [Trybe Wallet](https://trybe-wallet-two.vercel.app/) - Carteira de controle de gastos com conversor de moedas  <img align="center" alt="Tiemi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 9. [Recipe App](http://easycooking-app.vercel.app/) - Projeto em equipe em que desenvolvemos um aplicativo mobile com React JS para ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas e drinks - Conclusão do módulo de Front-end <img align="center" alt="Tiemi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 10. [Docker Todo List](https://github.com/tiemifaustino/docker-todolist-project) - Primeiro projeto do módulo de Back-end utilizando Dockerfile e Docker-Compose <img align="center" alt="Tiemi-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-11. [MySQL All for one](https://github.com/tiemifaustino/mysql-all-for-one) - Projeto com o objetivo de praticar os conceitos de SQL criando queries para consulta e manipulação de tabelas <img align="center" alt="Tiemi-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+11. [MySQL All for one](https://github.com/tiemifaustino/mysql-all-for-one) - Projeto com o objetivo de praticar os conceitos de SQL criando queries para consulta e manipulação de tabelas <img align="center" alt="Tiemi-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
 ##
 
