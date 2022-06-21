@@ -12,8 +12,10 @@ Na Trybe aprendemos com uma metodologia ativa, realizando vários projetos indiv
 - 👩 Pronomes: ela/dela
 - 📍 Salto, São Paulo, Brasil
 - 📖 Aprendendo 
-   <img align="center" alt="Tiemi-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-   <img align="center" alt="Tiemi-MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+   <img align="center" alt="Tiemi-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+   <img align="center" alt="Tiemi-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+   <img align="center" alt="Tiemi-nodejs" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+          
             
           
 
