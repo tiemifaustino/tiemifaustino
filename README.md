@@ -6,18 +6,17 @@ Sempre estudei em escola pública e no final do ensino médio fiz o ENEM, e com 
 
 Com o tempo percebi que uma das coisas que mais me trazia a sensação de orgulho e que me deixa animada é colocar a mão na massa, e ver que aquilo que eu fiz funciona e que vai resolver o problema de alguém. Foi então que conheci o curso da Trybe e descobri que a programação me oferecia essa sensação de satisfação pessoal e profissional e aos 31 anos decidi fazer a transição de carreira para a tecnologia.
 
-Na Trybe aprendemos com uma metodologia ativa, realizando vários projetos individuais e em grupo durante a jornada. Aprendi os Fundamentos Web, Front-end e atualmente iniciando Back-end.
+Na Trybe aprendemos com uma metodologia ativa, realizando vários projetos individuais e em grupo durante a jornada. Aprendi os Fundamentos Web, Front-end e atualmente estudando Back-end.
 
 - 🌱 Estudando Desenvolvimento Web pela [Trybe](https://www.betrybe.com/)
 - 👩 Pronomes: ela/dela
 - 📍 Salto, São Paulo, Brasil
-- 📖 Aprendendo 
-   <img align="center" alt="Tiemi-Docker" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-   <img align="center" alt="Tiemi-MySQL" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-   <img align="center" alt="Tiemi-nodejs" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
-          
+- 📖 Aprendendo: <br>
+   <img align="center" alt="Tiemi-Docker" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+   <img align="center" alt="Tiemi-MySQL" height="70" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+   <img align="center" alt="Tiemi-nodejs" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
+   <img align="center" alt="Tiemi-sequelize" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />        
             
-          
 
 ##
 ### Alguns projetos realizados durante o curso:
@@ -50,6 +49,11 @@ Na Trybe aprendemos com uma metodologia ativa, realizando vários projetos indiv
   <img align="center" alt="Tiemi-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
   <img align="center" alt="Tiemi-GitHub" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
   <img align="center" alt="Tiemi-Git" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"  />
+  <img align="center" alt="Tiemi-Docker" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+  <img align="center" alt="Tiemi-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />     
+  <img align="center" alt="Tiemi-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />       
+  <img align="center" alt="Tiemi-Sequelize" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" />
+          
 </div>
 
 ##
