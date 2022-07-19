@@ -17,9 +17,10 @@ Na Trybe aprendemos com uma metodologia ativa, realizando vários projetos indiv
    <img align="center" alt="Tiemi-nodejs" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
    <img align="center" alt="Tiemi-sequelize" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />        
             
-
 ##
-### Alguns projetos realizados durante o curso:
+<details>
+<summary><strong><h2> ✒️ 📖 Alguns projetos realizados durante o curso:</h2></strong></summary>
+
 1. [Lessons Learned](https://tiemifaustino.github.io/lessons-learned/) - Primeiro projeto realizado utilizando HTML5 e CSS3
 2. [Portfólio](https://tiemifaustino.github.io/#eu) - Construção de portfólio utilizando HTML5 e CSS3
 3. [Pixels Art](https://tiemifaustino.github.io/project-pixels-art/) - Paleta de cores para criação de desenhos em pixels
@@ -31,6 +32,8 @@ Na Trybe aprendemos com uma metodologia ativa, realizando vários projetos indiv
 9. [Recipe App](http://easycooking-app.vercel.app/) - Projeto em equipe em que desenvolvemos um aplicativo mobile com React JS para ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas e drinks - Conclusão do módulo de Front-end <img align="center" alt="Tiemi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 10. [Docker Todo List](https://github.com/tiemifaustino/docker-todolist-project) - Primeiro projeto do módulo de Back-end utilizando Dockerfile e Docker-Compose <img align="center" alt="Tiemi-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
 11. [MySQL All for one](https://github.com/tiemifaustino/mysql-all-for-one) - Projeto com o objetivo de praticar os conceitos de SQL criando queries para consulta e manipulação de tabelas <img align="center" alt="Tiemi-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+</details>
 
 ##
 
