@@ -82,6 +82,8 @@ Na Trybe aprendemos com uma metodologia ativa, realizando vários projetos indiv
 12. [MySQL One for All](https://github.com/tiemifaustino/mysql-one-for-all) - Projeto para normalizar tabelas na terceira forma normal, criá-las e populá-las e executar queries para consulta e manipulação destas <img align="center" alt="Tiemi-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 
 13. [Talker Manager](https://github.com/tiemifaustino/talker-manager) - Projeto utilizando Node e Express para a criação de uma API de um CRUD  (Create, Read, Update e Delete) de palestrantes em que é possível cadastrar, visualizar, pesquisar, editar e excluir informações <img align="center" alt="Tiemi-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img align="center" alt="Tiemi-Express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+
+14. [Store Manager](https://github.com/tiemifaustino/store-manager) - Projeto utilizando Node, Express e MySQL para a criação de uma API de um CRUD de produtos e vendas realizado durante o módulo de Back-End do curso de Desenvolvimento Web pela Trybe. <img align="center" alt="Tiemi-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img align="center" alt="Tiemi-Express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" /> <img align="center" alt="Tiemi-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
 </details>
 
 ##
