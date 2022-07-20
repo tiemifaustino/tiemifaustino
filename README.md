@@ -18,23 +18,70 @@ Na Trybe aprendemos com uma metodologia ativa, realizando vários projetos indiv
    <img align="center" alt="Tiemi-sequelize" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />        
             
 ##
+
+<strong><h2> ✒️ 📖 Alguns projetos realizados durante o curso:</h2></strong>
+
 <details>
-<summary><strong><h2> ✒️ 📖 Alguns projetos realizados durante o curso:</h2></strong></summary>
+<summary><strong><h2>
+   📚 Fundamentos
+   <img  align="center" alt="Tiemi-HTML" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />   
+   <img align="center" alt="Tiemi-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+   <img align="center" alt="Tiemi-JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />       
+</h2></strong></summary>
 
 1. [Lessons Learned](https://tiemifaustino.github.io/lessons-learned/) - Primeiro projeto realizado utilizando HTML5 e CSS3
+   * [Repositório Lessons Learned](https://github.com/tiemifaustino/lessons-learned)
+   
 2. [Portfólio](https://tiemifaustino.github.io/#eu) - Construção de portfólio utilizando HTML5 e CSS3
-3. [Pixels Art](https://tiemifaustino.github.io/project-pixels-art/) - Paleta de cores para criação de desenhos em pixels
+   * [Repositório Portfólio](https://github.com/tiemifaustino/tiemifaustino.github.io)
+   
+3. [Pixels Art](https://github.com/tiemifaustino/project-pixels-art) - Paleta de cores para criação de desenhos em pixels
+   * [Repositório Pixels Art](https://github.com/tiemifaustino/project-pixels-art)
+   
 4. [To do list](https://tiemifaustino.github.io/project-todo-list/) - Lista de Tarefas
+   * [Repositório To do list](https://github.com/tiemifaustino/project-todo-list)
+   
 5. [Color Guess](https://tiemifaustino.github.io/color-guess-project-bonus/) - Jogo de adivinhação de cores
-6. [Solar System](https://tiemifaustino.github.io/solar-system-react-project/) - Primeiro projeto utilizando [React](https://pt-br.reactjs.org/) <img align="center" alt="Tiemi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-7. [Trivia Game](https://trivia-group24.vercel.app/) - Projeto em equipe baseado em um jogo de perguntas (Trivia) no módulo de Front-end  <img align="center" alt="Tiemi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-8. [Trybe Wallet](https://trybe-wallet-two.vercel.app/) - Carteira de controle de gastos com conversor de moedas  <img align="center" alt="Tiemi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-9. [Recipe App](http://easycooking-app.vercel.app/) - Projeto em equipe em que desenvolvemos um aplicativo mobile com React JS para ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas e drinks - Conclusão do módulo de Front-end <img align="center" alt="Tiemi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
-10. [Docker Todo List](https://github.com/tiemifaustino/docker-todolist-project) - Primeiro projeto do módulo de Back-end utilizando Dockerfile e Docker-Compose <img align="center" alt="Tiemi-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
-11. [MySQL All for one](https://github.com/tiemifaustino/mysql-all-for-one) - Projeto com o objetivo de praticar os conceitos de SQL criando queries para consulta e manipulação de tabelas <img align="center" alt="Tiemi-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-12. [MySQL One for All](https://github.com/tiemifaustino/mysql-one-for-all) - Projeto para normalizar tabelas na terceira forma normal, criá-las e populá-las e executar queries para consulta e manipulação destas <img align="center" alt="Tiemi-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-13. [Talker Manager](https://github.com/tiemifaustino/talker-manager) - Projeto utilizando Node e Express para a criação de uma API de um CRUD  (Create, Read, Update e Delete) de palestrantes em que é possível cadastrar, visualizar, pesquisar, editar e excluir informações <img align="center" alt="Tiemi-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img align="center" alt="Tiemi-Express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+   * [Repositório Color Guess](https://github.com/tiemifaustino/color-guess-project-bonus)
+</details>
 
+<details>
+<summary><strong><h2>
+   💻 Front-end
+   <img align="center" alt="Tiemi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   <img align="center" alt="Tiemi-Redux" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" />
+          
+</h2></strong></summary>
+
+6. [Solar System](https://tiemifaustino.github.io/solar-system-react-project/) - Primeiro projeto utilizando [React](https://pt-br.reactjs.org/) <img align="center" alt="Tiemi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   * [Repositório Solar System](https://github.com/tiemifaustino/solar-system-react-project)
+
+7. [Trivia Game](https://trivia-group24.vercel.app/) - Projeto em equipe baseado em um jogo de perguntas (Trivia) no módulo de Front-end  <img align="center" alt="Tiemi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   * [Repositório Trivia Game](https://github.com/tiemifaustino/trivia-group24)
+
+8. [Trybe Wallet](https://trybe-wallet-two.vercel.app/) - Carteira de controle de gastos com conversor de moedas  <img align="center" alt="Tiemi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   * [Repositório Trybe Wallet](https://github.com/tiemifaustino/trybe-wallet)
+
+9. [Easy Cooking App](http://easycooking-app.vercel.app/) - Projeto em equipe em que desenvolvemos um aplicativo mobile com React JS para ver, buscar, filtrar, favoritar e acompanhar o progresso de preparação de receitas e drinks - Conclusão do módulo de Front-end <img align="center" alt="Tiemi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+   * [Repositório Easy Cooking App](https://github.com/tiemifaustino/easycooking-app)
+</details>
+
+<details>
+<summary><strong><h2>
+   👩‍🍳 Back-end
+   <img align="center" alt="Tiemi-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+   <img align="center" alt="Tiemi-Express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
+   <img align="center" alt="Tiemi-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+   <img align="center" alt="Tiemi-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+</h2></strong></summary>
+
+10. [Docker Todo List](https://github.com/tiemifaustino/docker-todolist-project) - Primeiro projeto do módulo de Back-end utilizando Dockerfile e Docker-Compose <img align="center" alt="Tiemi-Docker" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain.svg" />
+
+11. [MySQL All for one](https://github.com/tiemifaustino/mysql-all-for-one) - Projeto com o objetivo de praticar os conceitos de SQL criando queries para consulta e manipulação de tabelas <img align="center" alt="Tiemi-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+12. [MySQL One for All](https://github.com/tiemifaustino/mysql-one-for-all) - Projeto para normalizar tabelas na terceira forma normal, criá-las e populá-las e executar queries para consulta e manipulação destas <img align="center" alt="Tiemi-MySQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+
+13. [Talker Manager](https://github.com/tiemifaustino/talker-manager) - Projeto utilizando Node e Express para a criação de uma API de um CRUD  (Create, Read, Update e Delete) de palestrantes em que é possível cadastrar, visualizar, pesquisar, editar e excluir informações <img align="center" alt="Tiemi-Nodejs" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" /> <img align="center" alt="Tiemi-Express" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original-wordmark.svg" />
 </details>
 
 ##
