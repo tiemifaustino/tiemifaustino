@@ -19,7 +19,8 @@ Na Trybe aprendemos com uma metodologia ativa, realizando vários projetos indiv
             
 ##
 
-<strong><h2> ✒️ 📖 Alguns projetos realizados durante o curso:</h2></strong>
+<strong><h2> ✒️ 📖 Alguns projetos realizados durante o curso: </h2></strong>
+<h3>⭐ Clique nos títulos para visualizar ⭐</h3>
 
 <details>
 <summary><strong><h2>
