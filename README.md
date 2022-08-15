@@ -9,7 +9,7 @@
 </div>
 <br>
 
-<img align="right" src="/octocat-tiemi.png" alt="Octocat Tiemi Faustino" width="400px">
+<img align="right" src="/octocat-tiemi.png" alt="Octocat Tiemi Faustino" width="350px">
 
 <div align="justify">
 Estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> e farmacêutica. Amo café, música, filmes, doguinhos fofinhos e toda a praticidade e facilidade que a tecnologia pode nos proporcionar.</p>
