@@ -12,13 +12,15 @@
 <img align="right" src="/octocat-tiemi.png" alt="Octocat Tiemi Faustino" width="350px">
 
 <div align="justify">
-<p>Estudante de Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/">Trybe</a> e farmacêutica. Amo café, música, filmes, doguinhos fofinhos e toda a praticidade e facilidade que a tecnologia pode nos proporcionar.</p>
 
-Sempre estudei em escola pública e no final do ensino médio fiz o ENEM, e com a nota que tive consegui uma bolsa de 100% pelo ProUni para estudar farmácia. Me formei em 2012 e trabalhei como farmacêutica no varejo por 8 anos onde aprendi a me relacionar com a peça-chave mais importante de qualquer empresa: o Cliente.
+Desenvolvedora Web Full Stack. Amo café, música, filmes, doguinhos fofinhos e toda a praticidade e facilidade que a tecnologia pode nos proporcionar.
 
-Quando conheci o curso da Trybe descobri que a programação me oferecia a sensação de satisfação pessoal e profissional ao solucionar problemas e aos 31 anos decidi fazer a transição de carreira em tecnologia para ser uma Desenvolvedora Web.
+<p>Trabalhei como farmacêutica no varejo por 8 anos e aos 31 anos de idade (2021) decidi fazer a transição de carreira em tecnologia para ser uma Desenvolvedora Web para simplificar a vida das pessoas solucionando problemas por meio da programação.</p>
 
-Na Trybe aprendemos com uma metodologia ativa, realizando vários projetos individuais e em grupo durante a jornada. Aprendi os Fundamentos Web, Front-end e atualmente estudando Back-end.
+Já realizei vários projetos individuais e em grupo de front-end e back-end utilizando metodologias ágeis para o gerenciamento do projeto durante a jornada na <a href="https://www.betrybe.com/">Trybe</a> onde estudo Desenvolvimento web Full Stack.
+
+Na Trybe aprendemos com uma metodologia ativa, aplicando o conhecimento em projetos na prática durante a jornada. Aprendi os Fundamentos Web, Front-end e atualmente estudando Back-end.
+
 </div>
 
 - 🌱 Estudando Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/)
