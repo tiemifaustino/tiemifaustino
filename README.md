@@ -9,6 +9,8 @@
 </div>
 <br>
 
+<img align="right" src="/octocat-tiemi.png" alt="Octocat Tiemi Faustino" width="350px">
+
 <div align="justify">
 Estudante de Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/">Trybe</a> e farmacêutica. Amo café, música, filmes, doguinhos fofinhos e toda a praticidade e facilidade que a tecnologia pode nos proporcionar.</p>
 
@@ -18,8 +20,6 @@ Quando conheci o curso da Trybe descobri que a programação me oferecia a sensa
 
 Na Trybe aprendemos com uma metodologia ativa, realizando vários projetos individuais e em grupo durante a jornada. Aprendi os Fundamentos Web, Front-end e atualmente estudando Back-end.
 </div>
-
-<img align="right" src="/octocat-tiemi.png" alt="Octocat Tiemi Faustino" width="350px">
 
 - 🌱 Estudando Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/)
 - 👩 Pronomes: ela/dela
