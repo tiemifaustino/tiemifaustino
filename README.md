@@ -127,6 +127,4 @@ Na Trybe aprendemos com uma metodologia ativa, realizando vários projetos indiv
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=tiemifaustino&layout=compact&langs_count=7&theme=algolia"/>
 </div><br>
 
-##
-
 ![Snake animation](https://github.com/tiemifaustino/tiemifaustino/blob/output/github-contribution-grid-snake.svg)
