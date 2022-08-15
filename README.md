@@ -11,13 +11,15 @@
 
 <img align="right" src="/octocat-tiemi.png" alt="Octocat Tiemi Faustino" width="400px">
 
-Estudante de Desenvolvimento Web na [Trybe](https://www.betrybe.com/) e farmacêutica. Amo café, música, filmes, doguinhos fofinhos e toda a praticidade e facilidade que a tecnologia pode nos proporcionar.
+<div align="justify">
+Estudante de Desenvolvimento Web na <a href="https://www.betrybe.com/">Trybe</a> e farmacêutica. Amo café, música, filmes, doguinhos fofinhos e toda a praticidade e facilidade que a tecnologia pode nos proporcionar.</p>
 
 Sempre estudei em escola pública e no final do ensino médio fiz o ENEM, e com a nota que tive consegui uma bolsa de 100% pelo ProUni para estudar farmácia. Me formei em 2012 e trabalhei como farmacêutica no varejo por 8 anos onde aprendi a me relacionar com a peça-chave mais importante de qualquer empresa: o Cliente.
 
 Quando conheci o curso da Trybe descobri que a programação me oferecia a sensação de satisfação pessoal e profissional ao solucionar problemas e aos 31 anos decidi fazer a transição de carreira em tecnologia para ser uma Desenvolvedora Web.
 
 Na Trybe aprendemos com uma metodologia ativa, realizando vários projetos individuais e em grupo durante a jornada. Aprendi os Fundamentos Web, Front-end e atualmente estudando Back-end.
+</div>
 
 - 🌱 Estudando Desenvolvimento Web pela [Trybe](https://www.betrybe.com/)
 - 👩 Pronomes: ela/dela
