@@ -12,7 +12,7 @@
 <img align="right" src="/octocat-tiemi.png" alt="Octocat Tiemi Faustino" width="350px">
 
 <div align="justify">
-Estudante de Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/">Trybe</a> e farmacêutica. Amo café, música, filmes, doguinhos fofinhos e toda a praticidade e facilidade que a tecnologia pode nos proporcionar.</p>
+<p>Estudante de Desenvolvimento Web Full Stack na <a href="https://www.betrybe.com/">Trybe</a> e farmacêutica. Amo café, música, filmes, doguinhos fofinhos e toda a praticidade e facilidade que a tecnologia pode nos proporcionar.</p>
 
 Sempre estudei em escola pública e no final do ensino médio fiz o ENEM, e com a nota que tive consegui uma bolsa de 100% pelo ProUni para estudar farmácia. Me formei em 2012 e trabalhei como farmacêutica no varejo por 8 anos onde aprendi a me relacionar com a peça-chave mais importante de qualquer empresa: o Cliente.
 
