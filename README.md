@@ -13,7 +13,7 @@
 
 <div align="justify">
 
-Desenvolvedora Web Full Stack. Amo café, música, filmes, doguinhos fofinhos e toda a praticidade e facilidade que a tecnologia pode nos proporcionar.
+Desenvolvedora Web Full Stack. Amo café, música, filmes, doguinhos fofinhos e de tudo relacionado a tecnologia e inovação.
 
 <p>Trabalhei como farmacêutica no varejo por 8 anos e aos 31 anos de idade (2021) decidi fazer a transição de carreira em tecnologia para ser uma Desenvolvedora Web para simplificar a vida das pessoas solucionando problemas por meio da programação.</p>
 
