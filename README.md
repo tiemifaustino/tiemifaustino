@@ -15,7 +15,7 @@
 
 Desenvolvedora Web Full Stack. Amo café, música, filmes, doguinhos fofinhos e de tudo relacionado a tecnologia e inovação.
 
-<p>Trabalhei como farmacêutica no varejo por 8 anos e aos 31 anos de idade (2021) decidi fazer a transição de carreira em tecnologia para ser uma Desenvolvedora Web para simplificar a vida das pessoas solucionando problemas por meio da programação.</p>
+<p>Trabalhei como farmacêutica no varejo por 8 anos e aos 31 anos de idade (2021) decidi fazer a transição de carreira em tecnologia para ser Desenvolvedora Web e simplificar a vida das pessoas solucionando problemas por meio da programação.</p>
 
 Já realizei vários projetos individuais e em grupo de front-end e back-end utilizando metodologias ágeis para o gerenciamento do projeto durante a jornada na <a href="https://www.betrybe.com/">Trybe</a> onde estudo Desenvolvimento web Full Stack.
 
