@@ -1,5 +1,6 @@
 <div align="center"><h1> Olá! Sou a Tiemi Faustino <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="4%"></h1></div>
 
+<!-- Contato -->
 <div align="center">
   <a href="https://www.linkedin.com/in/tiemifaustino/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
   <a href="mailto:hayashipharma@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
@@ -10,18 +11,18 @@
 </div>
 <br>
 
-<img align="right" src="/octocat-tiemi.png" alt="Octocat Tiemi Faustino" width="350px">
+<div>
+<img align="left" src="/octocat-tiemi.png" alt="Octocat Tiemi Faustino" width="350px">
 
 <div align="justify">
 
 Desenvolvedora Web Full Stack. Amo café, música, filmes, doguinhos fofinhos e de tudo relacionado a tecnologia e inovação.
 
-<p>Trabalhei como farmacêutica no varejo por 8 anos e aos 31 anos de idade (2021) decidi fazer a transição de carreira em tecnologia para ser Desenvolvedora Web e simplificar a vida das pessoas solucionando problemas por meio da programação.</p>
-
 Já realizei vários projetos individuais e em grupo de front-end e back-end utilizando metodologias ágeis para o gerenciamento do projeto durante a jornada na <a href="https://www.betrybe.com/">Trybe</a> onde estudo Desenvolvimento web Full Stack.
 
 Na Trybe aprendemos com uma metodologia ativa, aplicando o conhecimento em projetos na prática durante a jornada. Aprendi os Fundamentos Web, Front-end e atualmente estudando Back-end.
 
+</div>
 </div>
 
 - 🌱 Estudando Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/)
