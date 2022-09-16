@@ -13,13 +13,13 @@
 
 <div align="justify">
 
-<img align="right" src="/octocat-tiemi.png" alt="Octocat Tiemi Faustino" width="350px">
+  <img align="right" src="/octocat-tiemi.png" alt="Octocat Tiemi Faustino" width="350px">
 
-Amo café, música, filmes, doguinhos fofinhos e de tudo relacionado a tecnologia e inovação.
+  Amo café, música, filmes, doguinhos fofinhos e de tudo relacionado a tecnologia e inovação.
 
-Já realizei vários projetos individuais e em grupo de front-end e back-end utilizando metodologias ágeis para o gerenciamento do projeto durante a jornada na <a href="https://www.betrybe.com/">Trybe</a> onde estudo Desenvolvimento web Full Stack.
+  Já realizei vários projetos individuais e em grupo de front-end e back-end utilizando metodologias ágeis para o gerenciamento do projeto durante a jornada na <a href="https://www.betrybe.com/">Trybe</a> onde estudo Desenvolvimento web Full Stack.
 
-Na Trybe aprendemos com uma metodologia ativa, aplicando o conhecimento em projetos na prática durante a jornada. Aprendi os Fundamentos Web, Front-end e atualmente estudando Back-end.
+  Na Trybe aprendemos com uma metodologia ativa, aplicando o conhecimento em projetos na prática durante a jornada. Aprendi os Fundamentos Web, Front-end e atualmente estudando Back-end.
 
 </div>
 
