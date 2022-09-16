@@ -11,18 +11,16 @@
 </div>
 <br>
 
-<div>
-<img align="left" src="/octocat-tiemi.png" alt="Octocat Tiemi Faustino" width="350px">
-
 <div align="justify">
 
-Desenvolvedora Web Full Stack. Amo café, música, filmes, doguinhos fofinhos e de tudo relacionado a tecnologia e inovação.
+<img align="right" src="/octocat-tiemi.png" alt="Octocat Tiemi Faustino" width="350px">
+
+Amo café, música, filmes, doguinhos fofinhos e de tudo relacionado a tecnologia e inovação.
 
 Já realizei vários projetos individuais e em grupo de front-end e back-end utilizando metodologias ágeis para o gerenciamento do projeto durante a jornada na <a href="https://www.betrybe.com/">Trybe</a> onde estudo Desenvolvimento web Full Stack.
 
 Na Trybe aprendemos com uma metodologia ativa, aplicando o conhecimento em projetos na prática durante a jornada. Aprendi os Fundamentos Web, Front-end e atualmente estudando Back-end.
 
-</div>
 </div>
 
 - 🌱 Estudando Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/)
@@ -36,6 +34,7 @@ Na Trybe aprendemos com uma metodologia ativa, aplicando o conhecimento em proje
    <img align="center" alt="Tiemi-nodejs" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original-wordmark.svg" />
    <img align="center" alt="Tiemi-sequelize" height="90" width="90" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original-wordmark.svg" />      
 ##
+
 
 <div align="center"><h3> Tecnologias e Ferramentas que conheço: </h3></div>
 <div align="center">
