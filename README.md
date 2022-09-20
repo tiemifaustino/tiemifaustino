@@ -130,9 +130,7 @@
 
 * **[Blogs API](https://github.com/tiemifaustino/blogs-api)**
 
-
 ##
 
-
-
 ![Snake animation](https://github.com/tiemifaustino/tiemifaustino/blob/output/github-contribution-grid-snake.svg)
+
