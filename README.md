@@ -86,6 +86,8 @@
 </h3>
 
 * **[Lessons Learned](https://tiemifaustino.github.io/lessons-learned/)** - [Repositório](https://github.com/tiemifaustino/lessons-learned)
+
+* **[Playground Functions](https://github.com/tiemifaustino/playground-functions)**
    
 * **[Exercício Portfólio com HTML5 e CSS3](https://tiemifaustino.github.io/#eu)** - [Repositório](https://github.com/tiemifaustino/tiemifaustino.github.io)
    
