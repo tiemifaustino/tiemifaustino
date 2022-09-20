@@ -97,6 +97,9 @@
    
 * **[Color Guess](https://tiemifaustino.github.io/color-guess-project-bonus/)** - [Repositório](https://github.com/tiemifaustino/color-guess-project-bonus)
 
+* **[Trybewarts](https://tiemifaustino.github.io/trybewarts/)** - [Repositório](https://github.com/tiemifaustino/trybewarts)
+
+
 <h3>
    💻 Front-end
    <img align="center" alt="Tiemi-React" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
