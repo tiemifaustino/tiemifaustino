@@ -17,13 +17,13 @@
 
   Amo café, música, filmes, doguinhos e gatinhos fofinhos e de tudo relacionado a tecnologia e inovação.
 
-  Realizei vários projetos individuais e em grupo de front-end e back-end utilizando metodologias ágeis para o gerenciamento do projeto durante a jornada na <a href="https://www.betrybe.com/">Trybe</a> onde estudo Desenvolvimento web Full Stack.
-
-  Na Trybe aprendemos com uma metodologia ativa, aplicando o conhecimento em projetos na prática durante a jornada. Aprendi os Fundamentos Web, Front-end e atualmente estudando Back-end.
+  Realizei vários projetos individuais e em grupo de front-end e back-end utilizando metodologias ágeis para o gerenciamento do projeto durante a jornada na <a href="https://www.betrybe.com/">Trybe</a> onde me formei em Desenvolvimento Web Full Stack.
+  
+  Na Trybe aprendemos com uma metodologia ativa, aplicando o conhecimento em projetos na prática durante a jornada. Aprendi os Fundamentos Web, Front-end, Back-end e Ciência da Computação.
+  
 
 </div>
 
-- 🌱 Estudando Desenvolvimento Web Full Stack pela [Trybe](https://www.betrybe.com/)
 - 👩 Pronomes: ela/dela
 - 🎮 Hobbies: música, violão, filmes e séries, aprendendo roller skate 🛼
 - 📍 Salto, São Paulo, Brasil
@@ -45,6 +45,7 @@
   <td align="center" >
     <img alt="Javascript" src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E">
     <img alt="Typescript" src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"> 
+    <img alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
   </td>
   <td align="center" >
     <img alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
@@ -54,6 +55,7 @@
     <img alt="React" src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB">
     <img alt="React Router" src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">
     <img alt="Redux" src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">
+    <img alt="Figma" src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
   </td>
   <td align="center" >
     <img alt="NodeJS" src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white"> 
