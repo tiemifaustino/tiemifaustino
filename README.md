@@ -25,8 +25,7 @@
 </div>
 
 - 👩 Pronomes: ela/dela
-- 🎮 Hobbies: música, violão, filmes e séries, aprendendo roller skate 🛼
-- 📍 Salto, São Paulo, Brasil
+- 🎮 Hobbies: música, violão, filmes e séries
 
 ##
 
