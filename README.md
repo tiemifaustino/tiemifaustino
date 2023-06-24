@@ -178,6 +178,15 @@
 
 * **[Blogs API](https://github.com/tiemifaustino/blogs-api)**
 
+<h3>
+  📊 Ciência da Computação
+  <img align="center" alt="Tiemi-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+</h3>
+
+* **[Job Insights](https://github.com/tiemifaustino/job-insights)**
+
+* **[Inventory Report](https://github.com/tiemifaustino/inventory-report)**
+
 ##
 
 ![Snake animation](https://github.com/tiemifaustino/tiemifaustino/blob/output/github-contribution-grid-snake.svg)
