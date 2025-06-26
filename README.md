@@ -15,11 +15,12 @@
 
   <img align="right" src="/octocat-tiemi.png" alt="Octocat Tiemi Faustino" width="350px">
 
-  Amo café, música, filmes, doguinhos e gatinhos fofinhos e de tudo relacionado a tecnologia e inovação.
-
-  Realizei vários projetos individuais e em grupo de front-end e back-end utilizando metodologias ágeis para o gerenciamento do projeto durante a jornada na <a href="https://www.betrybe.com/">Trybe</a> onde me formei em Desenvolvimento Web Full Stack.
+  ☕ Curiosa por natureza, movida a café, bugs intrigantes e tudo que envolve tecnologia. Amo aprender e compartilhar, principalmente quando o assunto é qualidade de software. 
   
-  Na Trybe aprendemos com uma metodologia ativa, aplicando o conhecimento em projetos na prática durante a jornada. Aprendi os Fundamentos Web, Front-end, Back-end e Ciência da Computação.
+  🐞 Tenho estudado e praticado bastante para atuar como QA, focando em testes manuais, análise de bugs, APIs com Postman, DevTools e investigação de problemas com logs. Gosto de pensar como o usuário e ir atrás da causa raiz.
+
+  🚀 Tenho background em desenvolvimento web full stack e venho direcionando meus estudos e projetos para qualidade de software. Já participei de vários projetos com metodologias ágeis e, no momento, estou mergulhada no mundo dos testes automatizados com Cypress. Meu objetivo é ajudar a entregar produtos cada vez mais estáveis e com qualidade de verdade!
+
   
 
 </div>
