@@ -188,7 +188,5 @@
 
 * **[Inventory Report](https://github.com/tiemifaustino/inventory-report)**
 
-##
 
-![Snake animation](https://github.com/tiemifaustino/tiemifaustino/blob/output/github-contribution-grid-snake.svg)
 
